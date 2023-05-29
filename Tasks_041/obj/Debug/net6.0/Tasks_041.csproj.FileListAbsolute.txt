@@ -1,0 +1,15 @@
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\bin\Debug\net6.0\Tasks_041.exe
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\bin\Debug\net6.0\Tasks_041.deps.json
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\bin\Debug\net6.0\Tasks_041.runtimeconfig.json
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\bin\Debug\net6.0\Tasks_041.dll
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\bin\Debug\net6.0\Tasks_041.pdb
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.csproj.AssemblyReference.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.AssemblyInfoInputs.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.AssemblyInfo.cs
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.csproj.CoreCompileInputs.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.dll
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\refint\Tasks_041.dll
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.pdb
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\Tasks_041.genruntimeconfig.cache
+D:\Программирование\Семинары\Программирование Сsharp\ДЗ\Семинар 6\Tasks\Tasks_041\obj\Debug\net6.0\ref\Tasks_041.dll
