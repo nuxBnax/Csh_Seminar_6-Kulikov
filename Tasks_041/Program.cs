@@ -7,11 +7,11 @@
 
 void Main()
 {
-    int result = NumPositiveCounter(ReadIntArray());
+    int result = NumPositiveCounter(ReadArray());
     System.Console.Write("Number of positive elements in YOUR array: " + result);
 }
 
-int[] ReadIntArray()
+int[] ReadArray()
 {
     System.Console.Write("Enter numbers of YOUR array using a spacebar: ");
     int[] inputArray = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
